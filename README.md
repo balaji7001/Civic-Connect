@@ -12,7 +12,10 @@ The platform integrates:
 to streamline civic issue management.
 
 ---
-
+### Click Here to visit the site 
+```
+https://civic-connect-xi-seven.vercel.app/login
+```
 # 🌍 Problem
 
 Many civic issues like:
