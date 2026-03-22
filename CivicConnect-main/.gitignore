@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.DS_Store
+client/node_modules/
+client/dist/
+server/node_modules/
+server/dist/
+server/coverage/
+client/coverage/
+
+server/.env
+client/.env
+node_modules/
+dist/
