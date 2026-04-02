@@ -15,7 +15,6 @@ import {
 } from "./notificationService";
 import { createGeoPoint } from "../utils/geoUtils";
 import { generateComplaintId } from "../utils/generateComplaintId";
-
 const defaultDepartments = [
   {
     name: "Sanitation Department",
