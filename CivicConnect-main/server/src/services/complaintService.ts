@@ -78,7 +78,7 @@ const findComplaintByIdentifier = async (complaintIdentifier: string) => {
     complaintIdentifier.startsWith("CMP-") ? { complaintId: complaintIdentifier } : { _id: complaintIdentifier },
   );
 };
-Fyck jinubxsjn
+
 const assertCitizenCanSubmitComplaints = async (citizenId: string | Types.ObjectId) => {
   const citizen = await UserModel.findById(citizenId).lean();
 
