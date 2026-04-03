@@ -8,7 +8,10 @@ interface RegisterPayload {
   password: string;
   ward: string;
   address: string;
-}
+}chkkcdsgm 
+Lminkm
+Mkijhx
+Kmbxzfc
 
 interface AuthContextValue {
   user: User | null;
