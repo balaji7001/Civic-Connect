@@ -9,8 +9,6 @@ interface RegisterPayload {
   ward: string;
   address: string;
 }chkkcdsgm 
-Lminkm
-
 
 interface AuthContextValue {
   user: User | null;
