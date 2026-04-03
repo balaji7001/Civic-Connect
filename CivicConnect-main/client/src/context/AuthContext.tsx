@@ -8,7 +8,7 @@ interface RegisterPayload {
   password: string;
   ward: string;
   address: string;
-}chkkcdsgm 
+}
 
 interface AuthContextValue {
   user: User | null;
