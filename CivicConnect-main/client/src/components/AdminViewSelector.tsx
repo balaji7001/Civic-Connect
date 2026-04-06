@@ -4,7 +4,7 @@ type AdminViewOption = {
   label: string;
   value: AdminView;
 };
-I supposed to 
+I supposed 
 type AdminViewSelectorProps = {
   id?: string;
   options?: readonly AdminViewOption[];
