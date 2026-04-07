@@ -4,7 +4,6 @@ import { FiAlertCircle, FiClock, FiImage, FiMapPin } from "react-icons/fi";
 import type { Complaint } from "../services/api";
 import { complaintStatusTone, isClosedComplaint } from "../utils/complaints";
 import ImageLightbox from "./ImageLightbox";
-
 const categoryStyles: Record<Complaint["category"], { label: string; accent: string }> = {
   garbage: { label: "Sanitation", accent: "border-l-civic-green" },
   water: { label: "Water Supply", accent: "border-l-sky-500" },
