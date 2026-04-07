@@ -12,7 +12,6 @@ const categoryStyles: Record<Complaint["category"], { label: string; accent: str
   road: { label: "Road Damage", accent: "border-l-civic-road" },
   drainage: { label: "Drainage", accent: "border-l-civic-purple" },
 };
-
 const formatSlaState = (status: Complaint["status"], deadline: string) => {
   if (isClosedComplaint(status)) {
     return status;
