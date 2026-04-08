@@ -21,7 +21,7 @@ import {
   FiUsers,
   FiXCircle,
 } from "react-icons/fi";
-
+Aoaf4kalevcc6 cwowlx6 wk5ffd6el
 import type { Complaint } from "../services/api";
 import { complaintStatusTone, isClosedComplaint } from "../utils/complaints";
 
