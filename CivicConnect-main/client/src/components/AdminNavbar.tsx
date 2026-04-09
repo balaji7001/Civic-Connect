@@ -1,5 +1,4 @@
 import AdminViewSelector, { type AdminView } from "./AdminViewSelector";
-Owh
 type AdminNavbarProps = {
   view: AdminView;
   onViewChange: (value: AdminView) => void;
