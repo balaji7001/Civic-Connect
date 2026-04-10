@@ -3,7 +3,7 @@ type AdminNavbarProps = {
   view: AdminView;
   onViewChange: (value: AdminView) => void;
 };
-Kbdj zhkdk 
+Kbdj 
 const AdminNavbar = ({ view, onViewChange }: AdminNavbarProps) => {
   return (
     <div className="mb-8 flex flex-col gap-4 rounded-[1.75rem] border border-slate-200 bg-white px-5 py-5 shadow-soft dark:border-slate-800 dark:bg-slate-900 md:flex-row md:items-center md:justify-between">
